@@ -6,13 +6,13 @@ This Tool Is Paid But You Can Use In Free 🔥
              
                  
  
-           rm -rf Premium
+rm -rf Premium
 
-           git clone https://github.com/SSC4-07/Premium
+git clone https://github.com/SSC4-07/Premium
 
-           cd Premium
+cd Premium
 
-           python SSC-07.py
+python SSC-07.py
 
           
 
