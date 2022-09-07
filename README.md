@@ -6,11 +6,15 @@ This Tool Is Paid But You Can Use In Free 🔥
              
                  
  
-           rm -rf Public 
+           rm -rf Premium
 
-           git clone https://github.com/SSC4-07/Public
+           git clone https://github.com/SSC4-07/Premium
 
-           cd Public 
+           cd Premium
 
-           python Public.py
+           python SSC-07.py
+
+          
+
+           
     
