@@ -6,9 +6,11 @@ This Tool Is Paid But You Can Use In Free 🔥
              
                  
  
-rm -rf Public 
-git clone https://github.com/SSC4-07/Public
+           rm -rf Public 
 
-cd Public
+           git clone https://github.com/SSC4-07/Public
 
-python Public.py
+           cd Public 
+
+           python Public.py
+    
